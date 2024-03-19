@@ -1,3 +1,4 @@
+![ca](https://github.com/collinsabu/collinsabu/assets/64439462/b32852c8-3a21-42d9-ace3-e8a3f6d6a8bd)
 <h2 align="center">Hi, I'm Collins Abu</h2>
 <h6 align="center" >I am a passionate Frontend Developer</h6>
 
