@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Collins Abu</h2>
-<p align="center">I am a passionate Frontend Developer</p>
+<h6 align="center">I am a passionate Frontend Developer</h6>
 
 <p align="left"> <a href="https://twitter.com/dev_collins1" target="blank"><img src="https://img.shields.io/twitter/follow/collinsabu?logo=twitter&style=for-the-badge" alt="collinsabu" /></a> </p>
 
