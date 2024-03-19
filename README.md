@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Collins Abu</h2>
-<h6 align="center">I am a passionate Frontend Developer</h6>
+<h6 align="center" >I am a passionate Frontend Developer</h6>
 
 <p align="left"> <a href="https://twitter.com/dev_collins1" target="blank"><img src="https://img.shields.io/twitter/follow/collinsabu?logo=twitter&style=for-the-badge" alt="collinsabu" /></a> </p>
 
@@ -10,10 +10,7 @@
 - 📫 How to reach me **letsconnect@collinsabu.tech**
 
  <br/>
-
-
-
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_collinsabu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_collins1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CollinsAbu_dev) 
 
